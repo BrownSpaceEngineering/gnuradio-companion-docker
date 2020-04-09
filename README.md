@@ -1,5 +1,5 @@
 # GNU Radio Companion Docker Image
-[Docker Hub Repository](https://hub.docker.com/repository/docker/brownspaceengineering/gnuradio-companion)
+[Docker Hub Repository](https://hub.docker.com/r/brownspaceengineering/gnuradio-companion)
 
 This README is a tutorial on easily using [GNU Radio Companion](https://wiki.gnuradio.org/index.php/GNURadioCompanion) on any operating system. See the Quick Start below to get started.
 
